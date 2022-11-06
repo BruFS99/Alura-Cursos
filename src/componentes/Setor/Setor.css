@@ -1,0 +1,22 @@
+.setor {
+  text-align: center;
+  padding: 70px;
+  margin-top: 30px;
+  font-family: 'Prata';
+  
+}
+
+.setor h3 {
+  font-size: 32px;
+  padding: 10px;
+  border-bottom: 3px solid ;
+  display: inline-block;
+  font-weight: 400;
+}
+
+.setor .colaboradores {
+  display: flex;
+  justify-content: space-around;
+  margin-top: 40px;
+  flex-wrap: wrap;
+}
